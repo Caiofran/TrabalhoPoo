@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Documentos\\Faculdade 2021.2\\Programação Orientada a Objetos\\banco\\mysql-connector-java-8.0.25.jar"
+    ]
+}
